@@ -15,3 +15,6 @@ Desenvolvedor com experiência front-end e back-end, com foco em programação w
 ## 📫 Contato
 - LinkedIn: (www.linkedin.com/in/marcelo-rodrigues-dos-santos-759135b7)
 - GitHub: (www.github.com/marcelo-d3v)
+
+## 📥 Download
+📄 [Baixar currículo em PDF](./curriculo.pdf)
