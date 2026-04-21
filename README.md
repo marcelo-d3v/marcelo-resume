@@ -1,13 +1,16 @@
-# Marcelo Rodrigues dos Santos
-## Analista Desenvolvedor de Sistemas
+## Marcelo Rodrigues dos Santos
+### Contato
+- LinkedIn: (www.linkedin.com/in/marcelo-rodrigues-dos-santos-759135b7)
+- GitHub: (www.github.com/marcelo-d3v)
 
+### Resumo profissional
 Analista desenvolvedor com experiência front-end e back-end, com foco em programação web e sistemas corporativos.
 
-## Formação
+### Formação
 
-## Experiência
+### Experiência
 
-## Tecnologias
+### Tecnologias
 - HTML5, CSS3, JavaScript, TypeScript, Angular
 - JUnit, Gherkin, Selenium
 - APIs REST (Postman, Swager)
@@ -15,9 +18,5 @@ Analista desenvolvedor com experiência front-end e back-end, com foco em progra
 - Maven, Git, GitHub, GitLab
 - C, C++, Java
 
-## Contato
-- LinkedIn: (www.linkedin.com/in/marcelo-rodrigues-dos-santos-759135b7)
-- GitHub: (www.github.com/marcelo-d3v)
-
-## Download
+### Download
 📥 [Baixar currículo em PDF](./curriculo.pdf)
