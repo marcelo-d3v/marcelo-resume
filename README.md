@@ -2,6 +2,7 @@
 ### Contato
 LinkedIn: (www.linkedin.com/in/marcelo-rodrigues-dos-santos-759135b7)<br>
 GitHub: (www.github.com/marcelo-d3v)
+E-mail: (marcelo.unesp@yahoo.com.br)
 
 ### Resumo profissional
 Analista de Sistemas com experiência front-end e back-end, com foco em programação web e sistemas corporativos.
