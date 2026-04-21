@@ -1,7 +1,7 @@
 # Marcelo Rodrigues dos Santos
 ### Contato
 LinkedIn: (www.linkedin.com/in/marcelo-rodrigues-dos-santos-759135b7)<br>
-GitHub: (www.github.com/marcelo-d3v)
+GitHub: (www.github.com/marcelo-d3v)<br>
 E-mail: (marcelo.unesp@yahoo.com.br)
 
 ### Resumo profissional
