@@ -7,14 +7,14 @@
 Analista desenvolvedor com experiência front-end e back-end, com foco em programação web e sistemas corporativos.
 
 ### Formação
-Bacharelado em **Sistemas de Informação**
-Universidade Federal de São Carlos - UFSCar
-(2013 a 2018)
+Bacharelado em **Sistemas de Informação**<br>
+Universidade Federal de São Carlos - UFSCar<br>
+(2013 a 2018)<br>
 
 ### Experiência
-Analista: Desenvolvedor de Sistemas
-Serviço Federal de Processamento de Dados – SERPRO
-(2021 a 2023)
+Analista: Desenvolvedor de Sistemas<br>
+Serviço Federal de Processamento de Dados – SERPRO<br>
+(2021 a 2023)<br>
 
 ### Tecnologias
 - HTML5, CSS3, JavaScript, TypeScript, Angular
